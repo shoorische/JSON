@@ -1,0 +1,13 @@
+{
+  "full_name": [
+   	{
+      "first_name": "Alexander",
+      "patronymic": "Vladimirovich",
+      "surname": "Filichenok"
+      ]
+	},
+  "age": 32,
+  "pets": 1,
+  "desired salary": 500
+  		
+}
